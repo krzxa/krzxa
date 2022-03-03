@@ -1,6 +1,6 @@
 ❤ 14 years old
 🌱 I’m currently learning: HTML, CSS
-🥅 2022 Goals: Learn programming languages, help people, be happy.
+🥅 2022 Goals: Learn programming languages
 
 <!---
 krzxa/krzxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
